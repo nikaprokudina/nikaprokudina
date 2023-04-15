@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **prokudina.nika.code@gmail.com**
 
-- 📄 My resume: [resumelink](resumelink)
-
 - ⚡ Random fact: **I keen on playing squash**
 
 <h3 align="left">Connect with me:</h3>
@@ -30,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikaprokudina&show_icons=true&locale=en" alt="nikaprokudina" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikaprokudina&" alt="nikaprokudina" /></p>
+
+<- 📄 My resume: [resumelink](resumelink)>
