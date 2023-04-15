@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studing **at HSE University (Faculty of Computer Science)**
 
-- 👨‍💻 All of my projects are available at [linkkk](linkkk)
+- 👨‍💻 All of my projects are available at [linkkk]("https://github.com/nikaprokudina/cpp_base_course")
 
 - 📫 How to reach me **prokudina.nika.code@gmail.com**
 
