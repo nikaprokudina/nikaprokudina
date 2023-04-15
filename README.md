@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **prokudina.nika.code@gmail.com**
 
-//- 📄 My resume: [resumelink](resumelink)
+- 📄 My resume: [resumelink](resumelink)
 
 - ⚡ Random fact: **I keen on playing squash**
 
