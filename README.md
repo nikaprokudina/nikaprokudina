@@ -1,6 +1,7 @@
 [![MasterHead](https://www.parasoft.com/wp-content/uploads/2020/06/static-code-analysis-defects-01.jpg)](https://www.dreamstime.com/programming-language-coding-banner-compilation-css-technology-image210006161)
 
 <h1 align="center">Hi 👋, I'm Nika</h1>
+
 <h3 align="center">A passionate IT specialist</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc0MTdjYTg1YjEwNWJiY2MwYmU1ODRhZTE1Y2QwZDkzM2U2MDBjMiZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif">
