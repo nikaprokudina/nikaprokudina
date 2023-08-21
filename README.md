@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently studing **at HSE University (Faculty of Computer Science)**
 
-- 👨‍💻 All of my projects are available in my repositories
+- 👨‍💻 Some of my projects are available in my repositories
 
 - 📫 How to reach me **prokudina.nika.code@gmail.com**
 
-- ⚡ Random fact: **I keen on playing squash**
+- ⚡ Random fact: **I can't live without traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
