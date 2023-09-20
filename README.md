@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **prokudina.nika.code@gmail.com**
 
-- ⚡ Random fact: I can't live without traveling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
